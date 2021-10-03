@@ -59,6 +59,10 @@ title: Tutorials and Explainers
 
 - This example shows how to implement a full-stack app in TypeScript with Next.js using Prisma Client as a backend. It also demonstrates how to implement authentication using NextAuth.js. By Nikolas Burk at Prisma.
 
+#### [Authentication with Google One Tap and NextAuth.js](https://www.ramielcreations.com/next-auth-google-one-tap)<svg xmlns="http://www.w3.org/2000/svg" style={{ marginLeft: '5px', marginBottom:'-6px'}} height="20" width="20" fill="none" viewBox="0 0 24 24" stroke="currentColor"><title>External</title> <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" /> </svg>
+
+- This example shows how to integrate [Google One Tap](https://developers.google.com/identity/gsi/web/guides/features) in your login process.
+
 ## Testing
 
 #### [Testing with Cypress](tutorials/testing-with-cypress)
